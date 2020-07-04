@@ -1,0 +1,32 @@
+#App{
+  color:goldenrod;
+  letter-spacing: 1.5px;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#AdminPanelSubmit{
+  margin-top:20px;
+  background-color: goldenrod;
+  color:rgba(0,0,0,0.85);
+  height:40px;
+  letter-spacing: 1.5px;
+  width: 120px !important;
+  border-radius: 100px;
+  border:1px solid rgba(0,0,0,0.85);
+}
+
+.AdminPanelForm{
+  margin-top: 10px;
+  height:25px;
+  width: 300px;
+}
+
+#AdminPanelMssg{
+  margin-top: 50px;
+}
+

@@ -1,0 +1,11 @@
+Capture The Flag, or CTF in short, is a type of hacking event with a single objective - poke around and find the flag.
+Flags are hidden in various locations. They might be in files, stuck into source codes, or it maybe the answer to a trivia question. Your goal is to hunt them all down. 
+
+Don't worry if you're not a coding wizard or a cybersecurity expert. Most challenges in this CTF contest can be solved without any coding skills. All the concepts required for solving the challenges could be understood with a quick google search. 
+
+So put on your detective caps, and get ready to compete against your collegemates to dominate the leaderboards.
+
+Additional Info:
+Once you enter a level, you're going to be searching for the flags, using every skill and tool you have.
+You can play through the levels in any order you want; more than anything else, the goal is to learn and have fun doing it.
+If you get stuck, try going through a level from scratch and see if you missed something along the way. Did you inspect every page thoroughly? Press every button? Manipulate every input? Try not to overthink it too much; the flags are usually more obvious than you might think.
